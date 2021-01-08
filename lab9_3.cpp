@@ -1,8 +1,4 @@
-//cout << "Number of data = ";
-//cout << "Mean = ";
-//cout << "Standard deviation = ";
-
-/*#include<iostream>
+#include<iostream>
 #include<iomanip>
 #include<fstream>
 #include<cstdlib>
@@ -26,14 +22,5 @@ int main(){
     cout << "Mean = " << average << endl;
     cout << "Standard deviation = " << SD << endl;
     source.close();
-    return 0;
-}*/
-
-#include<iostream>
-using namespace std;
-int main(){
-    for(int i =2;i<=6;i++){
-        cout<<"C";
-    }
     return 0;
 }
